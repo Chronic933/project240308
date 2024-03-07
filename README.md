@@ -21,3 +21,5 @@ unbescape-1.1.6.RELEASE.jar
 
 请求的url：http://localhost:8080/book.do?operate=index
 idea中在configurations里选择tomcat→选择deployment→将application content修改成“/”
+
+将upload2中的图片一起放到uploads文件夹中，将uploads文件夹放入static文件夹
